@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #ffffff;
+    background-color: #3c3c3c;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -24,20 +24,20 @@ body {
     font-size: 16px;
 }
 
-cca4f596a376e649546108f0988a82de.jpg{
+.logo-r6{
     width: 25%;
 }
 
-.Fifa{
-    background-image: linear-gradient(#ffffff,#8c8c8c);
-    color:rgb(44, 43, 43);
+.r6{
+    background-image: linear-gradient(#3c3c3c,#8c8c8c);
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
-.Fifa-div-conteudo{
+.r6-div-conteudo{
     width: 35%;
 }
 
@@ -46,10 +46,10 @@ cca4f596a376e649546108f0988a82de.jpg{
     padding: 24px 0;
 }
 
-.Jogadores{
+.agentes{
     padding: 24px 0;
 }
-.Jogadores-imagem{
+.agente-imagem{
     width: 120px;
 }
 
@@ -58,23 +58,23 @@ cca4f596a376e649546108f0988a82de.jpg{
     padding: 4px 8px;
 }
 
-.Jogadores-div{
+.agente-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.Jogadores-titulo{
+.agentes-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.Jogadores-todos{
+.agentes-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .rodape{
-    background-color: rgb(255, 255, 255);
+    background-color: black;
     text-align: center;
 }
 
